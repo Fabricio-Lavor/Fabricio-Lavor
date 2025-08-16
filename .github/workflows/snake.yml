@@ -1,0 +1,38 @@
+name: Generate GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # roda todo dia à meia-noite
+  workflow_dispatch:       # permite rodar manualmente
+  push:
+    branches:
+      - master            # ou main, se essa for a sua branch principal
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # 1️⃣ Clonar o repositório
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Gerar os SVGs da cobrinha
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Fabricio-Lavor
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 3️⃣ Enviar os SVGs para a branch 'output'
+      - name: Push SVGs to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
