@@ -22,7 +22,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Lavor&theme=midnight-purple&hide_border=true&locale=pt-BR" height="250em"/>
 </p>
 
-<!-- Estatísticas adicionais -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fabricio-Lavor&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&locale=pt-BR&title_color=6E40C9&icon_color=6E40C9&text_color=FFFFFF" height="250em"/>
 </p>
@@ -35,20 +34,17 @@
   <img src="https://raw.githubusercontent.com/Fabricio-Lavor/Fabricio-Lavor/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </p>
 
-> ⚠️ OBS: Para a cobrinha funcionar, certifique-se de que o workflow `snake.yml` está configurado corretamente no seu repositório. Ele gera automaticamente o SVG em `output/github-contribution-grid-snake.svg`.  
-
 ---
 
 ## 🚀 Tecnologias que uso  
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-6E40C9?style=for-the-badge&logo=javascript&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Python-6E40C9?style=for-the-badge&logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/C-6E40C9?style=for-the-badge&logo=c&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/C++-6E40C9?style=for-the-badge&logo=c%2B%2B&logoColor=fff"/>
   <img src="https://img.shields.io/badge/React-6E40C9?style=for-the-badge&logo=react&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Node.js-6E40C9?style=for-the-badge&logo=nodedotjs&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Linux-6E40C9?style=for-the-badge&logo=linux&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Git-6E40C9?style=for-the-badge&logo=git&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/HTML5-6E40C9?style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS3-6E40C9?style=for-the-badge&logo=css3&logoColor=fff"/>
 </p>
 
 ---
@@ -59,3 +55,11 @@
   <a href="https://www.linkedin.com/in/fabricio-lavor/">
     <img src="https://img.shields.io/badge/LinkedIn-6E40C9?style=for-the-badge&logo=linkedin&logoColor=fff"/>
   </a>
+  <a href="mailto:Fabricioblavor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6E40C9?style=for-the-badge&logo=gmail&logoColor=fff"/>
+  </a>
+</p>
+
+---
+
+✨ *"Sempre em busca de evolução, dentro e fora do código."*
