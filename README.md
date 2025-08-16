@@ -1,18 +1,37 @@
 <!-- Banner -->
 <h1 align="center">👋 Olá, eu sou o Fabricio Bezerra Lavôr</h1>
-<h3 align="center">💻 Estudante & Programador | Sempre explorando novas tecnologias 🚀</h3>
+<h3 align="center">💻 Estudante & Programador | Fã de Pokémon & Tecnologia 🚀</h3>
 
 ---
 
-## 🎮 Sobre mim  
-- 🌱 Atualmente estudando **Programação e Desenvolvimento**  
-- 🧩 Gosto de resolver problemas e aprender coisas novas  
-- 🎯 Objetivo: me tornar um **desenvolvedor full stack**  
-- ⚡ Fun fact: sou fã de **Pokémon** 🐾  
+## 📊 Minhas Estatísticas  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=react&bg_color=0D1117&hide_border=true" height="180em"/>
+</p>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
+## 🐍 Contribuições  
+
+<p align="center">
+  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🎮 Pokémon Vibes  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="120px" />
+  <img src="https://media.giphy.com/media/2v170e71aanfi/giphy.gif" width="120px" />
+  <img src="https://media.giphy.com/media/EVODaJHSXZGta/giphy.gif" width="120px" />
+</p>
+
+---
+
+## 🚀 Tecnologias  
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
@@ -21,32 +40,6 @@
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs" />
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
-</p>
-
----
-
-## 📊 Estatísticas  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" height="180em"/>
-</p>
-
----
-
-## 🐍 Cobrinha comendo contribuições  
-
-![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🎨 Animações e Pokémon  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/IY8CRBdQXODJSCERIr/giphy.gif" width="120px" />
-  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="120px" />
-  <img src="https://media.giphy.com/media/2v170e71aanfi/giphy.gif" width="120px" />
-  <img src="https://media.giphy.com/media/EVODaJHSXZGta/giphy.gif" width="120px" />
 </p>
 
 ---
